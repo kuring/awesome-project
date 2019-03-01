@@ -1,6 +1,6 @@
 # Awesome Project Kubernetes
 
-本文介绍业界公司的一些实现及互联网资料，很多资料来自于[DockOne](http://dockone.io/)。
+本文介绍业界公司的kubernetes落地方案技术分享，很多资料来自于[DockOne](http://dockone.io/)。
 
 ## 小米
 
@@ -24,15 +24,11 @@
 
 ## 唯品会
 
-实现了应用容器的ip固定，网络方案采用Contiv。
-
 - [唯品会基于Kubernetes的网络方案演进](http://dockone.io/article/1815)
 - [构建与定制：唯品会PaaS基于Kubernetes的实践](http://blog.shurenyun.com/shurenyun-k8s-223/)
 - [唯品会Noah云平台实现内幕披露](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649698903&idx=1&sn=6392175b0cf62825e4981b08acc85fda&chksm=88930d34bfe48422ee85d50037489868e2432b6aa4c7bef6dc46b8eaa3852f91bd5da14c5da1&mpshare=1&scene=1&srcid=09255FcTm8fVdN6r5OqWkTvK%23rd)
 
 ## 苏宁
-
-网络架构基于Contiv，实现了pod的ip地址固定。
 
 - [苏宁容器云基于Kubernetes和Contiv的网络架构技术实现](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649698091&idx=1&sn=389af72f1f0c9c215b39f493f35996f6&chksm=88931048bfe4995ec4e7bf237dabf7cbc186dc2738b45e95d5575fa96dc5d1f2238dac2a9b78&mpshare=1&scene=1&srcid=0809HV6TYenqZtwrDXLsL4vd%23rd)
 
