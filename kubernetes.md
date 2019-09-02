@@ -75,6 +75,7 @@ kafka HBase Spark运行在了k8s中
 ## 美团
 
 - [美团容器平台架构及容器技术实践](https://mp.weixin.qq.com/s/_3Kt2eYoZMnSl-4YLbC5dQ)
+- [美团点评Kubernetes集群管理实践](https://mp.weixin.qq.com/s/lYDYzEUlvXQhCO1xCJ7HAg)
 
 ## 360
 
