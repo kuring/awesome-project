@@ -110,3 +110,7 @@ kafka HBase Spark运行在了k8s中
 ## 新浪微博
 
 - [微博K8S实战：如何应对春晚等突发峰值流量？](https://mp.weixin.qq.com/s?__biz=MjM5ODI5Njc2MA==&mid=2655822968&idx=1&sn=b7483f7a10d4c2e5292f9d99e984f9a9&chksm=bd74e9af8a0360b9c901321a54d3584b91880d330182260a774c18d40d1e502887658e3919e9&mpshare=1&scene=1&srcid=%23rd)
+
+## 腾讯
+
+- [腾讯云私有化容器平台之网络](https://mp.weixin.qq.com/s/Ykb-So-EVj8rNE6HZg7XTQ)
