@@ -2,6 +2,10 @@
 
 本文介绍业界公司的kubernetes落地方案技术分享，很多资料来自于[DockOne](http://dockone.io/)。
 
+## 阿里巴巴
+
+- [阿里云上万个 Kubernetes 集群大规模管理实践](https://mp.weixin.qq.com/s/OeEV-etShpvr1CN6MNn1Mg)
+
 ## 小米
 
 - [小米弹性调度平台Ocean](https://mp.weixin.qq.com/s?__biz=MzA5OTAyNzQ2OA==&mid=2649698391&idx=1&sn=84954070b2dfd6b9102137be711aca25&chksm=88930f34bfe48622046f2fe2ca6e056f06c7ba8739022359a2db1f20157e1d116c1a5a60bdef&mpshare=1&scene=1&srcid=07295PxMGSARUWiz0FyWClku%23rd)
