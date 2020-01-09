@@ -118,3 +118,7 @@ kafka HBase Spark运行在了k8s中
 ## 腾讯
 
 - [腾讯云私有化容器平台之网络](https://mp.weixin.qq.com/s/Ykb-So-EVj8rNE6HZg7XTQ)
+
+## 网易
+
+- [管控代码减少80%，网易PaaS On Kubernetes实践](https://mp.weixin.qq.com/s/yK-d2JcvMVPDcpBPiHxztQ)
